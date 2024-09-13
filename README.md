@@ -8,7 +8,7 @@ AGG|-
 DANN|https://arxiv.org/abs/1912.12528
 MMD|https://arxiv.org/abs/1912.12528
 CORAL|https://arxiv.org/abs/1912.12528
-Triplet loss|-
+Triplet loss|https://www.sciencedirect.com/science/article/pii/S0888327022001686
 multi-domain Mixup|https://ieeexplore.ieee.org/document/9053273
 MLDG|https://arxiv.org/abs/1710.03463
 DAEL|https://ieeexplore.ieee.org/document/9540778
