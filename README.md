@@ -30,6 +30,16 @@ There are eight typical DG methods for RMFD, including AGG, a baseline method th
 --steps: str, the epoch at which the learning rate decays
 --epoch: int, the number of total epochs
 ```
+### Citiation
+
+If this article inspired you, please cite
+
+```
+@article{title={Domain generalization for rotating machinery fault diagnosis: A survey},
+        author={Xiao Yiming and Shao Haidong and Yan Shen and Wang Jie and Peng Ying and Liu Bin},
+        journal={Advanced Engineering Informatics},
+        year={2025}}
+```
 
 ### Contact
 
