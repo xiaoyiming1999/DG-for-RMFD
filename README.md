@@ -41,6 +41,8 @@ If this article inspired you, please cite
         year={2025}}
 ```
 
+If you have used the code of our repository, please star it, thank you very much.
+
 ### Contact
 
 If you have any questions about the codes or would like to communicate about intelligent fault diagnosis, fault detection, please contact us.
