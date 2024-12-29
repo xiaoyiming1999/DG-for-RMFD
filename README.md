@@ -51,6 +51,14 @@ There are eight typical DG methods for RMFD, including AGG, a baseline method th
 --steps: str, the epoch at which the learning rate decays
 --epoch: int, the number of total epochs
 ```
+
+## Pakages
+
+This repository is organized as:
+- [datasets](https://github.com/ZhaoZhibin/DL-based-Intelligent-Diagnosis-Benchmark/tree/master/datasets) contains the data augmentation methods and the Pytorch datasets for time domains.
+- [models](https://github.com/ZhaoZhibin/DL-based-Intelligent-Diagnosis-Benchmark/tree/master/models) contains the models used in this project.
+- [utils](https://github.com/ZhaoZhibin/DL-based-Intelligent-Diagnosis-Benchmark/tree/master/utils) contains the functions for realization of the training procedure.
+
 ### Citiation
 
 If this article inspired you, please cite
