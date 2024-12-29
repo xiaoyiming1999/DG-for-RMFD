@@ -52,14 +52,14 @@ There are eight typical DG methods for RMFD, including AGG, a baseline method th
 --epoch: int, the number of total epochs
 ```
 
-## Pakages
+### Pakages
 
 This repository is organized as:
 - [datasets](https://github.com/xiaoyiming1999/DG-for-RMFD/tree/main/datasets) contains the data augmentation methods and the Pytorch datasets for time domains.
 - [models](https://github.com/xiaoyiming1999/DG-for-RMFD/tree/main/models) contains the models used in this project.
 - [utils](https://github.com/xiaoyiming1999/DG-for-RMFD/tree/main/utils) contains the functions for realization of the training procedure.
 
-## References
+### References
 
 Part of the code refers to the following open source code:
 - [UDTL](https://github.com/ZhaoZhibin/UDTL) from the paper "[Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study](https://ieeexplore.ieee.org/document/9552620)" proposed by Zhao et al.
