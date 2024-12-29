@@ -29,3 +29,11 @@ There are eight typical DG methods for RMFD, including AGG, a baseline method th
 --gamma: float, the multiplicity of learning rate decay
 --steps: str, the epoch at which the learning rate decays
 --epoch: int, the number of total epochs
+
+#### Contact
+
+If you have any questions about the codes or would like to communicate about intelligent fault diagnosis, fault detection, please contact us.
+
+xiaoym@hnu.edu.cn
+
+Mentor E-mail：hdshao@hnu.edu.cn
