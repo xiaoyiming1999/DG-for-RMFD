@@ -13,10 +13,19 @@ There are eight typical DG methods for RMFD, including AGG, a baseline method th
 |MLDG                |https://arxiv.org/abs/1710.03463                                   |
 |DAEL                |https://ieeexplore.ieee.org/document/9540778                       |
 
-### Description of datasets
+### Datasets
 
 - **[PHM 2009](https://www.phmsociety.org/competition/PHM/09/apparatus)**
 - **[PU Bearing Dataset](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)**
+
+### Results
+
+|PHM2009|AGG  |DANN |MMD  |CORAL|Triplet loss|multi-domain Mixup|MLDG |DAEL |
+|-------|-----|-----|-----|-----|------------|------------------|-----|-----|
+|T0     |72.8%|75.1%|73.8%|73.0%|73.5%       |69.2%             |73.4%|59.9%|
+|T1     |89.5%|88.4%|89.5%|90.4%|87.7%       |91.7%             |90.0%|92.2%|
+|T2     |90.8%|90.0%|90.5%|91.3%|87.2%       |92.1%             |91.1%|92.3%|
+|T3     |79.9%|80.4%|79.9%|80.2%|79.1%       |82.6%             |79.3%|68.1%|
 
 ### Description of key parameters
 
