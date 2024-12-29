@@ -13,6 +13,11 @@ There are eight typical DG methods for RMFD, including AGG, a baseline method th
 |MLDG                |https://arxiv.org/abs/1710.03463                                   |
 |DAEL                |https://ieeexplore.ieee.org/document/9540778                       |
 
+### Description of datasets
+
+- **[PHM 2009](https://www.phmsociety.org/competition/PHM/09/apparatus)**
+- **[PU Bearing Dataset](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)**
+
 ### Description of key parameters
 
 ```
