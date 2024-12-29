@@ -69,7 +69,7 @@ This repository is organized as:
 - [models](https://github.com/xiaoyiming1999/DG-for-RMFD/tree/main/models) contains the models used in this project.
 - [utils](https://github.com/xiaoyiming1999/DG-for-RMFD/tree/main/utils) contains the functions for realization of the training procedure.
 
-### References
+### Reference
 
 Part of the code refers to the following open source code:
 - [UDTL](https://github.com/ZhaoZhibin/UDTL) from the paper "[Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study](https://ieeexplore.ieee.org/document/9552620)" proposed by Zhao et al.
