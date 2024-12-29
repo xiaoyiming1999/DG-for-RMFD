@@ -13,7 +13,7 @@ There are eight typical DG methods for RMFD, including AGG, a baseline method th
 |MLDG                |https://arxiv.org/abs/1710.03463                                   |
 |DAEL                |https://ieeexplore.ieee.org/document/9540778                       |
 
-###Description of key parameters
+### Description of key parameters
 
 ```
 --data_name: str, the dataset used
