@@ -54,6 +54,7 @@ There are eight typical DG methods for RMFD, including AGG, a baseline method th
 
 ### How to use
 - download datasets
+- Update self.data_dir in PHM_2009_Gearbox.py and PU_bearing.py according to the path where you placed the dataset
 - use the DG_main.py to test AGG and DANN and MMD and CORAL and Triplet loss and multi-domain Mixup and MLDG and DAEL
 
 - for example, use the following commands to test CORAL for PU with the transfer_task T3
